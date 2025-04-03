@@ -31,7 +31,7 @@ I have a feeling most people have used this. My LinkedIn is [here](https://www.l
 ## More About Me
 If you still want to get to know me just a little bit, look at my [favorite quote](#my-favorite-quote). 
 
-Also there's more info located in the [README.md](README.md).
+Also, there's more info located [here](info.md)!
 
 ### General Schedule for School
 1. Wake up
