@@ -14,19 +14,19 @@ As long as you have two sides of the right triangle, you can <ins>manipulate</in
 ## My Favorite Quote
 Somethinhg that I love saying in particular weather is 
 
->Why be in the rain when you can dance in it!
+>"Why be in the rain when you can dance in it!"
 
 I love to be optimistic about things and I enjoy hearing rainfall too. 
 ![Picture of Rain](rain.jpg)
 
 ## C influence
 I was taking a class that revolved around using C. The professor at the end used 
-```return 0``` in their goodbye message and I've thought about that to this day. 
+```return 0 ``` in their goodbye message and I've thought about that to this day. Also, a favorite code of mine would be ```print ``` just because it has helped me debug my code in a visual way. 
 
 ## LinkedIn
 ![Icon of LinkedIn](linkedin.png)
 
-I have a feeling most people have used this. My LinkedIn is [here](https://www.linkedin.com/in/travis-nguyen17/)! 
+I have a feeling most people have used this. My *LinkedIn* is [here](https://www.linkedin.com/in/travis-nguyen17/)! 
 
 ## More About Me
 If you still want to get to know me just a little bit, look at my [favorite quote](#my-favorite-quote). 
